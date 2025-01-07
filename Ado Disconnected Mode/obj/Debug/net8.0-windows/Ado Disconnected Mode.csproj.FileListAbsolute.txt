@@ -1,0 +1,53 @@
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Ado Disconnected Mode.exe
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Ado Disconnected Mode.deps.json
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Ado Disconnected Mode.runtimeconfig.json
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Ado Disconnected Mode.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Ado Disconnected Mode.pdb
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.csproj.AssemblyReference.cache
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado_Disconnected_Mode.Form1.resources
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.csproj.GenerateResource.cache
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.AssemblyInfoInputs.cache
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.AssemblyInfo.cs
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.csproj.CoreCompileInputs.cache
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disc.4D697244.Up2Date
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\refint\Ado Disconnected Mode.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.pdb
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\Ado Disconnected Mode.genruntimeconfig.cache
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\obj\Debug\net8.0-windows\ref\Ado Disconnected Mode.dll
+D:\Hazem repo\C-_Lab_ITI-master\Lab11_CS\Ado Disconnected Mode\bin\Debug\net8.0-windows\Ado Disconnected Mode.dll.config
